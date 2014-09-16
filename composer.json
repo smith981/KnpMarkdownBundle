@@ -1,5 +1,5 @@
 {
-    "name":        "knplabs/knp-markdown-bundle",
+    "name":        "smith981/knp-markdown-bundle",
     "type":        "symfony-bundle",
     "description": "Knplabs markdown bundle transforms markdown into html",
     "keywords":    ["markdown", "knplabs", "knp", "bundle"],
@@ -14,6 +14,10 @@
         {
             "name": "Symfony Community",
             "homepage": "http://github.com/KnpLabs/KnpMarkdownBundle/contributors"
+        },
+        {
+            "name": "Ed Smith",
+            "homepage": "http://edsmith.org"
         }
     ],
 
