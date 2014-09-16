@@ -1,5 +1,6 @@
 {
     "name":        "smith981/knp-markdown-bundle",
+    "version":     "1.3.4",
     "type":        "symfony-bundle",
     "description": "Knplabs markdown bundle transforms markdown into html",
     "keywords":    ["markdown", "knplabs", "knp", "bundle"],
@@ -31,13 +32,7 @@
         "symfony/twig-bundle": "to use the Twig markdown filter",
         "ext-sundown": "to use optional support for php-sundown extension instead of php implementation"
     },
-
-    "extra": {
-        "branch-alias": {
-            "master": "1.3.4"
-        }
-    },
-
+    
     "autoload": {
         "psr-0": {
             "Knp\\Bundle\\MarkdownBundle": ""
